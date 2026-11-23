@@ -83,6 +83,7 @@ while ($number < 5){
 <?php
 $number = 0;
 do {
+    $number ++;
     echo $number;
     echo (", ");
     $number ++;
