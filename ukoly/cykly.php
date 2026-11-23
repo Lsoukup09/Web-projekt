@@ -86,7 +86,6 @@ do {
     $number ++;
     echo $number;
     echo (", ");
-    $number ++;
 }
 while ($number < 5);
 ?>
